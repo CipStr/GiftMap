@@ -149,7 +149,7 @@ body{
   z-index: 999;
   border-radius: 22px;
   border:1px solid var(--stroke);
-  background: linear-gradient(180deg, #ffffff14, #00000028);
+  background: linear-gradient(180deg, #ffffff55, #00000088);
   backdrop-filter: blur(14px);
   box-shadow: 0 24px 80px #00000077;
   padding: 12px;
@@ -166,6 +166,7 @@ body{
 .sheetHeader{
   display:flex;
   justify-content:space-between;
+  color: black;
   gap: 10px;
   align-items:flex-start;
 }
