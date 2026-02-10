@@ -124,6 +124,7 @@ export const places = [
     },
 ]
 ```
+# Remember: you need to change the import paths in `src/App.jsx` to point to your private data files.
 
 ## Privacy and dafety notes 
 
